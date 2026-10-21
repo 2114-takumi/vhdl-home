@@ -1,0 +1,2 @@
+*.vhd -text -filter -ident -working-tree-encoding
+*.vhdl -text -filter -ident -working-tree-encoding
